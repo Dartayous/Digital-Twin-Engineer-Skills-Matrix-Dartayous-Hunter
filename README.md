@@ -20,6 +20,7 @@ This is not theoretical — every skill is backed by implemented systems.
 | Omniverse Scene Construction & Lighting | Advanced | Project 1 - Omniverse Usd Scene Demo , Project 6 - Real-time Digital Twin Lighting Omniverse |
 | Real-Time Rendering (RTX) | Advanced | Project 1 - Omniverse Usd Scene Demo , Project 6 - Real-time Digital Twin Lighting Omniverse |
 | Real-World → Digital Twin Mapping | Advanced | Project 6 - Real-time Digital Twin Lighting Omniverse |
+| Real-World → Digital Twin Mapping and Computer Vision Engineering | Advanced | Project 12 - Real-time Computer Vision to Detection Pipeline Digital Twin Omniverse |
 
 ---
 
