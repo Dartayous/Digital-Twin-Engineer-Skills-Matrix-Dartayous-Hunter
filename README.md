@@ -1,8 +1,8 @@
-# ⭐ Digital Twin Engineer Skills Matrix — Dartayous Hunter
+#  Digital Twin Engineer Skills Matrix — Dartayous Hunter
 
 ---
 
-## 📌 Purpose
+##  Purpose
 
 This repository defines a structured Digital Twin Engineering Skills Matrix,
 mapping real-world capabilities to production-grade projects.
@@ -11,7 +11,7 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🟦 1. Simulation & USD Architecture
+##  1. Simulation & USD Architecture
 
 | Skill | Level | Evidence |
 |------|------|---------|
@@ -24,7 +24,7 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🟩 2. Robotics & Control Systems
+##  2. Robotics & Control Systems
 
 | Skill | Level | Evidence |
 |------|------|---------|
@@ -36,7 +36,7 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🟧 3. Perception & Sensor Systems
+##  3. Perception & Sensor Systems
 
 | Skill | Level | Evidence |
 |------|------|---------|
@@ -48,7 +48,7 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🟪 4. Data & AI Pipelines
+##  4. Data & AI Pipelines
 
 | Skill | Level | Evidence |
 |------|------|---------|
@@ -60,7 +60,7 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🟨 5. System Integration (CORE STRENGTH)
+##  5. System Integration (CORE STRENGTH)
 
 | Skill | Level | Evidence |
 |------|------|---------|
@@ -72,7 +72,7 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🟫 6. Production Engineering & Tooling
+##  6. Production Engineering & Tooling
 
 | Skill | Level | Evidence |
 |------|------|---------|
@@ -84,7 +84,7 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🚧 Strategic Growth Areas (Intentional Gaps)
+##  Strategic Growth Areas (Intentional Gaps)
 
 | Area | Status | Plan |
 |-----|------|------|
@@ -96,14 +96,14 @@ This is not theoretical — every skill is backed by implemented systems.
 
 ---
 
-## 🧠 Core Engineering Identity
+##  Core Engineering Identity
 
 **Digital Twin Systems Engineer**  
 Specializing in simulation → perception → AI → decision pipelines within the NVIDIA Omniverse ecosystem.
 
 ---
 
-## 🎯 Key Differentiators
+##  Key Differentiators
 
 - Built end-to-end digital twin systems, not isolated demos  
 - Demonstrated real robotics pipelines (Action Graph, planners, controllers)  
